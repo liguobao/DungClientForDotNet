@@ -1,0 +1,7 @@
+/.vs
+/DungClientForDotNet/obj
+/DungClientForDotNet/bin
+/SampleForCore/obj
+/SampleForCore/bin
+/SampleForFramework/bin
+/SampleForFramework/obj
